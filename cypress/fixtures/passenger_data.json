@@ -1,24 +1,24 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "20111",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "22/02/2025",
+  "SOURCE_STATION": "CSTM",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "MAO",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "orchidsuraj-4@okaxis",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Debasish Ghosh",
+      "AGE": 37,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Tumpa Das",
+      "AGE": 31,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
